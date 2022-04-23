@@ -1,0 +1,45 @@
+{
+  "login": [
+    {
+      "name": "kajal",
+      "password": "kajal123"
+    }
+  ],
+  "contact": [
+    {
+      "name": "Aman",
+      "age": "22",
+      "gender": "male",
+      "dob": "01-01-2000",
+      "id": 1
+    },
+    {
+      "name": "Avni",
+      "age": "20",
+      "gender": "female",
+      "dob": "01-01-2002",
+      "id": 2
+    },
+    {
+      "name": "katri",
+      "age": "22",
+      "gender": "other",
+      "dob": "01-01-2000",
+      "id": 3
+    },
+    {
+      "name": "hello",
+      "age": "10",
+      "gender": "other",
+      "dob": "01-01-2012",
+      "id": 4
+    },
+    {
+      "name": "abcd",
+      "age": "1",
+      "dob": "01-01-2021",
+      "gender": "other",
+      "id": 5
+    }
+  ]
+}
